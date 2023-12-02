@@ -1,0 +1,6 @@
+@inproceedings{feng2023finetuning,
+  title={Finetuning Offline World Models in the Real World},
+  author={Feng, Yunhai and Hansen, Nicklas and Xiong, Ziyan and Rajagopalan, Chandramouli and Wang, Xiaolong},
+  booktitle={Proceedings of the 7th Conference on Robot Learning (CoRL)},
+  year={2023}
+}
